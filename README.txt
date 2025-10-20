@@ -12,8 +12,9 @@ PROYECTO APIS DEMOBLAZE - EVELYN BALSECA
 
 
 ## Pasos de ejecución:
-1. Descomprimir el archivo EjercicioAutomatizacionAPIS_EvelynBalseca.zip
-2. Importar el proyecto karate_apis_demoblaze en IntelliJ.
+1. Descargar el proyecto EjercicioAutomatizacionAPIS_EvelynBalseca del github: https://github.com/evelynbalseca/proyecto_apis_demoblaze.git por medio del cmd con el comando: git clone https://github.com/evelynbalseca/proyecto_apis_demoblaze.git
+2. Importar el proyecto karate_apis_demoblaze descargado en IntelliJ.
 3. Ejecutar el archivo RunDemoblazeKarate.java que se encuentra en src/test/java/com/demoblaze/configs.
 4. Al finalizar las pruebas revisar el reporte en la consola en la seccion "HTML report: (paste into browser to view)" y dar clic en el archivo.html generado.
 5. Tambien se puede descargar en la ruta file:..../target/karate-reports/karate-summary.html.
+
