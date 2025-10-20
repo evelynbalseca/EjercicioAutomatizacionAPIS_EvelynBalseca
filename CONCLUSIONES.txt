@@ -1,0 +1,13 @@
+PROYECTO API DEMOBLAZE - EVELYN BALSECA
+
+
+CONCLUSIONES-HALLAZGOS
+
+1. Las pruebas automatizadas de los cuatros escenarios se ejecutaron de manera correcta en un tiempo de 2.25 segundos.
+2. Los casos de pruebas realizados se baso en el lenguaje Gherkin.
+3. La generación de reportes es muy completa y permite conocer el estado de la ejecución de los casos de prueba, adicional es intuitiva para cualquier persona que lo lea.
+
+HALLAZGO
+1. Para poder generar los casos de pruebas de consumo de APIs en el archivo .feature es necesario tener la documentación técnico de los servicios, ya que esta ocasión para obtener esta información fue necesario revisar los servicios del Signup y Login en la pagina web con herramientas del desarrollador.
+
+
